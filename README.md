@@ -6,14 +6,14 @@ Player can play in Cube mode or Flat mode as shown below.
 
 Cube mode
 <picture>
-  <source srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Cube Mode" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source srcset="https://drive.google.com/file/d/14_Rd5KUgoKveuMh4XIZY1umrALBmu8eQ/view?usp=sharing">
+  <img alt="Cube Mode" src="https://drive.google.com/file/d/14_Rd5KUgoKveuMh4XIZY1umrALBmu8eQ/view?usp=sharing">
 </picture>
 
 Flat mode
 <picture>
-  <source srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Flat Mode" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source srcset="https://drive.google.com/file/d/1o5hMSCRRISjUoDHjB73j3Ooz5QBMvEDO/view?usp=sharing">
+  <img alt="Flat Mode" src="https://drive.google.com/file/d/1o5hMSCRRISjUoDHjB73j3Ooz5QBMvEDO/view?usp=sharing">
 </picture>
 
 
