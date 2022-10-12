@@ -1,6 +1,8 @@
 # Minesweeper
 Made by UE 4.27. 
 Player can play in Cube mode or Flat mode as shown below.
+[Build Release](https://www.google.com/)
+
 
 Cube mode
 <picture>
@@ -14,4 +16,4 @@ Flat mode
   <img alt="Flat Mode" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-[BuildRelease](https://www.google.com/)
+
