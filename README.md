@@ -2,7 +2,7 @@
 Made by UE 4.27. 
 Player can play in Cube mode or Flat mode as shown below.
 
-[Build Release](https://www.google.com/)
+[Build Release](https://drive.google.com/file/d/15_8GUc6OsEZx-DEWh9wmfaWLdDQlTZ1q/view?usp=sharing)
 
 
 Cube mode
