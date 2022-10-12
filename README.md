@@ -7,8 +7,8 @@ Player can play in Cube mode or Flat mode as shown below.
 Cube mode
 ![This is an image](https://drive.google.com/file/d/14_Rd5KUgoKveuMh4XIZY1umrALBmu8eQ/view?usp=sharing)
 <picture>
-  <source srcset="https://drive.google.com/file/d/14_Rd5KUgoKveuMh4XIZY1umrALBmu8eQ/view?usp=sharing">
-  <img alt="Cube Mode" src="https://drive.google.com/file/d/14_Rd5KUgoKveuMh4XIZY1umrALBmu8eQ/view?usp=sharing">
+  <source srcset="https://github.com/MehdiBanijamali/Minesweeper/blob/main/Image/CubeMode.jpg">
+  <img alt="Cube Mode" src="https://github.com/MehdiBanijamali/Minesweeper/blob/main/Image/CubeMode.jpg">
 </picture>
 
 Flat mode
